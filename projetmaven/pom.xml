@@ -45,7 +45,6 @@
 
 
     </properties>
-    
     <build>
     <plugins>
         <plugin>
